@@ -1,8 +1,8 @@
 package mailer
 
 import (
-	"github.com/qor/assetfs"
-	"github.com/qor/render"
+	"github.com/kisrobot/assetfs"
+	"github.com/kisrobot/render"
 )
 
 // SenderInterface sender's interface

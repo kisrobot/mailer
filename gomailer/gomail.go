@@ -2,7 +2,7 @@ package gomailer
 
 import (
 	"github.com/go-gomail/gomail"
-	"github.com/qor/mailer"
+	"github.com/kisrobot/mailer"
 )
 
 // Sender gomail struct

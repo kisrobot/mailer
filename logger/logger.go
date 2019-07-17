@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/qor/mailer"
+	"github.com/kisrobot/mailer"
 )
 
 // Sender gomail struct
